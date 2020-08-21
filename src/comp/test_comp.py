@@ -1,5 +1,4 @@
-import unittest
-from comp import *
+import unittest from comp import *
 
 def compare_humans(inp, exp):
   if len(inp) != len(exp):
